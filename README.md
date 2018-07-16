@@ -4,6 +4,6 @@
     <title>crewor.github.io</title>
   </head>
   <body>
-    <a href="https://crewor.github.io/blog/">BLOG</a>
+    <a href="https://crewor.github.io/blog/">README BLOG</a>
   </body>
 </html>
