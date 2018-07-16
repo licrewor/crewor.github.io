@@ -1,9 +1,9 @@
 <html>
   <head>
     <meta name="baidu-site-verification" content="t9hER0KXBi" />
-    <title>My title</title>
+    <title>crewor.github.io</title>
   </head>
   <body>
-    # crewor.github.io
+    <a href="https://crewor.github.io/blog/">BLOG</a>
   </body>
 </html>
